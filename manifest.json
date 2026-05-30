@@ -1,0 +1,21 @@
+{
+  "name": "Preparation Tracker",
+  "short_name": "Prep App",
+  "description": "Study performance analyser and tracker",
+  "start_url": "/preparation/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0056b3",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
